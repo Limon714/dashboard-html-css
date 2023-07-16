@@ -76,3 +76,18 @@
     width: 100%;
     
 }
+
+.main--contain{
+   background-color: antiquewhite;
+   width: 100%;
+   position: relative;
+   padding: 1rem;
+   height: 20%;
+}
+.profilepic{
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   cursor: pointer;
+   margin-top: 10px;
+}
