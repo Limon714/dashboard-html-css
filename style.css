@@ -108,7 +108,7 @@
 .user--info{
    display: flex;
    align-items: center;
-   gap: 1;
+   gap: 1rem;
 }
 
 .search-box{
@@ -121,5 +121,15 @@
    color: rgba(113, 99, 186, 255);
 }
 .search-box input{
-   
+   padding: 5px;
+   background:transparent;
+}
+.search-box i{
+   cursor: pointer;
+   transition: all 0.5s ease-in-out;
+   font-size: 1.2rem;
+}
+
+.search-box i:hover{
+   transform: scale(1.2);
 }
