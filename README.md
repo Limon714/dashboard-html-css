@@ -1,3 +1,3 @@
 # Admin Dashboard using HTML CSS
 
-![Screenshot_4](https://github.com/Limon714/gsap/assets/72975868/7342b8b8-f613-43c5-9141-97d10e00b96a)
+![Screenshot_5](https://github.com/Limon714/gsap/assets/72975868/37f92c7a-be66-4a1b-8a2e-d9cd1991dca5)
