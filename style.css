@@ -91,3 +91,35 @@
    cursor: pointer;
    margin-top: 10px;
 }
+
+.header--wrap{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
+   background: #ffffff;
+   border-radius: 10px;
+   padding: 10px 2rem;
+}
+
+.header--title{
+   color: #022657;
+}
+.user--info{
+   display: flex;
+   align-items: center;
+   gap: 1;
+}
+
+.search-box{
+   background-color: rgb(237, 237, 237);
+   border-radius: 15px;
+   padding: 4px 12px;
+   display: flex;
+   align-items: center;
+   gap: 5px;
+   color: rgba(113, 99, 186, 255);
+}
+.search-box input{
+   
+}
